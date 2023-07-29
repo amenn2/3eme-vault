@@ -154,9 +154,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "08967dc320ae7e0b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "90b047de25c58d9e",
@@ -259,7 +267,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "9a70bafa99f37cf3",
+  "active": "e775b5396a74984d",
   "lastOpenFiles": [
     "README.md",
     "Day Planners/Day Planner-20230729.md",
