@@ -4,14 +4,14 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#lesson",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 1564358
       }
     },
     {
@@ -25,21 +25,21 @@
       "query": "tag:#home",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 13574176
       }
     },
     {
       "query": "tag:#subject",
       "color": {
         "a": 1,
-        "rgb": 13652704
+        "rgb": 11001938
       }
     },
     {
       "query": "tag:taki",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 5396192
       }
     },
     {
@@ -60,6 +60,6 @@
   "repelStrength": 16.9791666666667,
   "linkStrength": 0.442708333333333,
   "linkDistance": 167,
-  "scale": 0.7132754626224458,
+  "scale": 0.36288736930121407,
   "close": true
 }

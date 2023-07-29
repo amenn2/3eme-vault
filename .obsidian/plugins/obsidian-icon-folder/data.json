@@ -39,8 +39,7 @@
   "subjects/physique": "⚛",
   "subjects/prog": "LiCode2",
   "subjects/sti": "FabCss3",
-  "Home": "🏚",
-  "Home/Home.md": {
+  "Home.md": {
     "iconName": "🏠",
     "inheritanceIcon": "🏠"
   }

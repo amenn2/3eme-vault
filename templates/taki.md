@@ -1,10 +1,13 @@
----
+
+
+
 tag:
 subject: 
 lesson: 
 teacher: 
 ---
-date: {{date}},{{time}}
+
+date: {{date}}
 lesson:
 teacher:
 
