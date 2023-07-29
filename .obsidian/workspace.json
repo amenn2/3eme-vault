@@ -87,7 +87,7 @@
       {
         "id": "16bccb08e7042bc6",
         "type": "tabs",
-        "dimension": 36.57844990548204,
+        "dimension": 36.54390934844193,
         "children": [
           {
             "id": "fe8bee43ece79a93",
@@ -140,14 +140,6 @@
             }
           },
           {
-            "id": "38cd5cc70b88c6b0",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "4a2e09e4b545c626",
             "type": "leaf",
             "state": {
@@ -156,28 +148,20 @@
             }
           },
           {
-            "id": "d2e845df7e0b5e7b",
+            "id": "9a70bafa99f37cf3",
             "type": "leaf",
             "state": {
-              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
-              "state": {}
-            }
-          },
-          {
-            "id": "ee4d6f2f09ce7ac8",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
+              "type": "calendar",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "90b047de25c58d9e",
         "type": "tabs",
-        "dimension": 63.421550094517954,
+        "dimension": 44.47592067988669,
         "children": [
           {
             "id": "11d879d9c6bf5b32",
@@ -230,10 +214,25 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792594,
+                  "scale": 0.3628873693012121,
                   "close": true
                 }
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fe83e4da6f72c91e",
+        "type": "tabs",
+        "dimension": 18.980169971671387,
+        "children": [
+          {
+            "id": "d2e845df7e0b5e7b",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {}
             }
           }
         ]
@@ -254,23 +253,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "smart-random-note:Open Random Note from Search": false,
-      "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "27ae68dadbd0f8e4",
+  "active": "9a70bafa99f37cf3",
   "lastOpenFiles": [
-    "taki/2023-07-29.md",
-    "templates/taki.md",
-    "Home/Home.md",
-    "subjects/Allemand/Allemand.md",
     "README.md",
-    "subjects/math/Math.md",
     "Day Planners/Day Planner-20230729.md",
     "Day Planners",
+    "Home/Home.md",
+    "taki/2023-07-29.md",
+    "templates/taki.md",
+    "subjects/Allemand/Allemand.md",
+    "subjects/math/Math.md",
     "2023-07-31.md",
     "subjects/francais/Francais.md",
     "Home.md",
