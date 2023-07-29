@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🏠",
+      "🏚",
+      "🍺",
+      "⚛",
+      "🧪"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "school note/qsdfqsd.md": {
+    "iconName": null,
+    "inheritanceIcon": "FabAngrycreative"
+  },
+  "subjects/Allemand": {
+    "iconName": "🍺",
+    "inheritanceIcon": "🇩🇪"
+  },
+  "subjects/arab": "🐪",
+  "subjects/chimie": "🧪",
+  "subjects/english": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  "subjects/francais": "🗼",
+  "subjects/math": "LiCalculator",
+  "subjects/philosophy": "🤔",
+  "subjects/physique": "⚛",
+  "subjects/prog": "LiCode2",
+  "subjects/sti": "FabCss3",
+  "Home": "🏚",
+  "Home/Home.md": {
+    "iconName": "🏠",
+    "inheritanceIcon": "🏠"
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "main": {
+    "id": "d5cc49bf1cd698fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "74b9c1300676ac33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27ae68dadbd0f8e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home/Home.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b373f4c86ef1bb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "056b3240d8353bc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e775b5396a74984d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "6262a3c567452f3d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#taki",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20e562a0077c945d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1256f54c1f7ba0d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "right": {
+    "id": "640fa7646591537f",
+    "type": "split",
+    "children": [
+      {
+        "id": "16bccb08e7042bc6",
+        "type": "tabs",
+        "dimension": 36.57844990548204,
+        "children": [
+          {
+            "id": "fe8bee43ece79a93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home/Home.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12e60472abe9c859",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home/Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2c6bfdead4914a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "463380e277dc0327",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home/Home.md"
+              }
+            }
+          },
+          {
+            "id": "38cd5cc70b88c6b0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a2e09e4b545c626",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2e845df7e0b5e7b",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee4d6f2f09ce7ac8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "90b047de25c58d9e",
+        "type": "tabs",
+        "dimension": 63.421550094517954,
+        "children": [
+          {
+            "id": "11d879d9c6bf5b32",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Home/Home.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:lesson",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "tag:#subject",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    },
+                    {
+                      "query": "template",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5526240
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792594,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 427.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "ee4d6f2f09ce7ac8",
+  "lastOpenFiles": [
+    "README.md",
+    "subjects/math/Math.md",
+    "Home/Home.md",
+    "Day Planners/Day Planner-20230729.md",
+    "Day Planners",
+    "taki/2023-07-29.md",
+    "2023-07-31.md",
+    "subjects/francais/Francais.md",
+    "Home.md",
+    "subjects/chimie/Chimie.md",
+    "templates/subject template.md",
+    "templates/lesson template.md",
+    "templates/taki.md",
+    "templates/part note template.md",
+    "Home/context.mdb",
+    "Context/spacesLastSync.log",
+    "Context",
+    "Untitled.md",
+    "taki",
+    "subjects/Allemand/Allemand.md",
+    "subjects/arab/arab.md",
+    "subjects/english/english.md",
+    "subjects/philosophy/Philosophy.md",
+    "subjects/physique/physique.md",
+    "subjects/sti/sti.md",
+    "subjects/math/Dérivabilité.md",
+    "Untitled.canvas",
+    "subjects/math/Suite réelle.md",
+    "subjects",
+    "subjects/math/Etude de fonctions.md",
+    "subjects/math/Arithmetique.md",
+    "subjects/math/Systèmes d'équation linéaires.md",
+    "subjects/math/Trigonomètrie.md",
+    "templates/context.mdb",
+    "templates",
+    "Recording 20230729114316.webm",
+    "Recording 20230729114329.webm",
+    "physique/intraction electrique/Untitled.canvas"
+  ]
+}

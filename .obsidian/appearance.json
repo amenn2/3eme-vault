@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "snippetsfloating-search-bar.css",
+    "snippetsfloating-status-bar.css - Copy",
+    "snippetsminimal-cards.css",
+    "snippetsnotion-cards.css"
+  ],
+  "theme": "obsidian"
+}
