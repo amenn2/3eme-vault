@@ -1,5 +1,5 @@
 {
   "promptDelete": false,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "alwaysUpdateLinks": true
 }

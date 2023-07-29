@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home/Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       },
       {
         "id": "90b047de25c58d9e",
@@ -261,28 +261,28 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "ee4d6f2f09ce7ac8",
+  "active": "27ae68dadbd0f8e4",
   "lastOpenFiles": [
+    "taki/2023-07-29.md",
+    "templates/taki.md",
+    "Home/Home.md",
+    "subjects/Allemand/Allemand.md",
     "README.md",
     "subjects/math/Math.md",
-    "Home/Home.md",
     "Day Planners/Day Planner-20230729.md",
     "Day Planners",
-    "taki/2023-07-29.md",
     "2023-07-31.md",
     "subjects/francais/Francais.md",
     "Home.md",
     "subjects/chimie/Chimie.md",
     "templates/subject template.md",
     "templates/lesson template.md",
-    "templates/taki.md",
     "templates/part note template.md",
     "Home/context.mdb",
     "Context/spacesLastSync.log",
     "Context",
     "Untitled.md",
     "taki",
-    "subjects/Allemand/Allemand.md",
     "subjects/arab/arab.md",
     "subjects/english/english.md",
     "subjects/philosophy/Philosophy.md",
@@ -295,7 +295,6 @@
     "subjects/math/Etude de fonctions.md",
     "subjects/math/Arithmetique.md",
     "subjects/math/Systèmes d'équation linéaires.md",
-    "subjects/math/Trigonomètrie.md",
     "templates/context.mdb",
     "templates",
     "Recording 20230729114316.webm",
