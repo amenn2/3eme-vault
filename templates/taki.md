@@ -1,7 +1,7 @@
 
 
 ---
-tag:
+tag: 
 subject: 
 lesson: 
 teacher: 
