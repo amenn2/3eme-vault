@@ -10,28 +10,47 @@
           {
             "id": "ebaeefd887063772",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {},
-              "pinned": true
+              "state": {}
             }
           },
           {
-            "id": "55d7ad9d585e641c",
+            "id": "d43d58866a4c2563",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "Habits/chart.md",
+                "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
+            }
+          },
+          {
+            "id": "8e514e59e1633575",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/31-Jul.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcf1d85d92a2e6d3",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Habits/habit tracker.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -43,6 +62,7 @@
       {
         "id": "056b3240d8353bc2",
         "type": "tabs",
+        "dimension": 53.59168241965973,
         "children": [
           {
             "id": "e775b5396a74984d",
@@ -86,10 +106,40 @@
             }
           }
         ]
+      },
+      {
+        "id": "15b3b7d9cffdec94",
+        "type": "tabs",
+        "dimension": 46.40831758034027,
+        "children": [
+          {
+            "id": "a20fe457c72bc0e3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "55d7ad9d585e641c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 427.5
   },
   "right": {
     "id": "640fa7646591537f",
@@ -98,7 +148,7 @@
       {
         "id": "16bccb08e7042bc6",
         "type": "tabs",
-        "dimension": 32.95561850802644,
+        "dimension": 32.30046948356807,
         "children": [
           {
             "id": "fe8bee43ece79a93",
@@ -106,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Habits/habit tracker.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Habits/habit tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Habits/habit tracker.md"
+              }
             }
           },
           {
@@ -163,10 +217,10 @@
             }
           },
           {
-            "id": "a20fe457c72bc0e3",
+            "id": "4dea8b1c71d0c92e",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
+              "type": "podcast_player_view",
               "state": {}
             }
           }
@@ -176,7 +230,7 @@
       {
         "id": "90b047de25c58d9e",
         "type": "tabs",
-        "dimension": 48.064211520302166,
+        "dimension": 48.920187793427225,
         "children": [
           {
             "id": "11d879d9c6bf5b32",
@@ -184,6 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Habits/habit tracker.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -253,7 +308,7 @@
       {
         "id": "fe83e4da6f72c91e",
         "type": "tabs",
-        "dimension": 18.980169971671387,
+        "dimension": 18.779342723004692,
         "children": [
           {
             "id": "d2e845df7e0b5e7b",
@@ -283,47 +338,51 @@
       "smart-random-note:Open Random Note from Search": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false,
+      "dbfolder:Create a new database table": false
     }
   },
-  "active": "ebaeefd887063772",
+  "active": "dcf1d85d92a2e6d3",
   "lastOpenFiles": [
+    "journal/31-Jul.md",
+    "Habits/habit tracker.md",
+    "templates/Daily note template.md",
+    "Habits/chart.md",
+    "journal/30-Jul.md",
+    "journal/28-Jul.md",
+    "journal/29-Jul.md",
+    "journal/27-Jul.md",
     "Home.md",
-    "README.md",
+    "taki/2023-07-11.md",
+    "Habits",
+    "journal/2023-07-30.md",
+    "journal/2023-07-31.md",
+    "taki/2023-07-30.md",
     "javascript/introduction/Introduction and What Is JavaScript.md",
+    "journal/07-30.md",
+    "2023-07-30.md",
+    "journal",
+    "taki/2023-07-30 1.md",
+    "yinote_Getting started with YiNote - YouTube.md",
+    "Attachments/neom-9hWJs7iblh8-unsplash.jpg",
+    "Attachments/obsidian-icon.ico",
+    "Attachments",
+    "taki/2023-07-24.md",
+    "taki/2023-07-25.md",
+    "Untitled 1",
+    "subjects/chimie/Chimie.md",
+    "subjects/prog/prog.md",
+    "README.md",
     "javascript/introduction",
     "javascript/introduction/Introduction.md",
-    "taki/2023-07-30.md",
     "templates/taki.md",
-    "Untitled.md",
-    "taki/Untitled.md",
     "javascript",
-    "subjects/arab/arab.md",
-    "templates/subject template.md",
-    "templates/part note template.md",
-    "subjects/Allemand/Allemand.md",
-    "subjects/math/Math.md",
-    "defefinit.md",
-    "subjects/physique/physique.md",
-    "elcerirdsf.md",
     "Recording 20230730004134.webm",
-    "templates/lesson template.md",
-    "ex6.md",
-    "Excalidraw/Drawing 2023-07-30 00.39.44.excalidraw.md",
     "Excalidraw",
-    "subjects/math/Dérivabilité.md",
-    "rajb phy.md",
-    "subjects/math/Trigonomètrie.md",
-    "subjects/english/english.md",
     "Untitled.canvas",
-    "subjects/math/Dénombrement.md",
-    "taki/2023-08-01 english.md",
     "dvr",
-    "plugins/fantasy-calendar/data.json",
-    "//plugins/fantasy-calendar/data.json",
-    "plugins",
-    "//plugins/fantasy-calendar",
-    "plugins/fantasy-calendar",
     "physique/intraction electrique/Untitled.canvas"
   ]
 }

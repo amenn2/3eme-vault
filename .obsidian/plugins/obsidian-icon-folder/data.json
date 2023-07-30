@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLineChart",
+      "🛤",
       "🏠",
       "🏚",
-      "🍺",
-      "⚛",
-      "🧪"
+      "🍺"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,7 @@
   "Home.md": {
     "iconName": "🏠",
     "inheritanceIcon": "🏠"
-  }
+  },
+  "Habits/habit tracker.md": "🛤",
+  "Habits/chart.md": "LiLineChart"
 }

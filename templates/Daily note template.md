@@ -1,0 +1,6 @@
+---
+tag: habit
+alias: {{date}}
+
+---
+
