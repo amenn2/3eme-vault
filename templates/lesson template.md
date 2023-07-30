@@ -1,10 +1,10 @@
 ---
 trimester: ""
-tags: ""
+tags: 
 ---
 
 ---
-# Course outline
+# Main
 
 ---
 # Exercies
