@@ -31,8 +31,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,7 +184,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,9 +286,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "55d7ad9d585e641c",
+  "active": "ebaeefd887063772",
   "lastOpenFiles": [
     "Home.md",
+    "README.md",
     "javascript/introduction/Introduction and What Is JavaScript.md",
     "javascript/introduction",
     "javascript/introduction/Introduction.md",
@@ -304,7 +299,6 @@
     "taki/Untitled.md",
     "javascript",
     "subjects/arab/arab.md",
-    "README.md",
     "templates/subject template.md",
     "templates/part note template.md",
     "subjects/Allemand/Allemand.md",
