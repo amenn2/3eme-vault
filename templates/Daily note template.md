@@ -1,6 +1,5 @@
 ---
 tag: habit
 alias: {{date}}
-
 ---
 

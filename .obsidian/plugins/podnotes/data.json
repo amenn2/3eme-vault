@@ -1,0 +1,81 @@
+{
+  "savedFeeds": {
+    "Fama Menou Podcast": {
+      "title": "Fama Menou Podcast",
+      "url": "https://d38zp968vffz8w.cloudfront.net/rss/famamenou.rss",
+      "artworkUrl": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/a4/c5/d8/a4c5d816-a97e-52c8-ddd7-51f61abaca1e/mza_14256854016830985398.jpg/100x100bb.jpg",
+      "collectionId": 1654903479
+    }
+  },
+  "podNotes": {},
+  "defaultPlaybackRate": 1,
+  "playedEpisodes": {
+    "كيفاش تخلقت TakiAcademy:  أول وأكبر منصة تعليم عن بعد في تونس  | Fama Menou Podcast #14 With TakiEddine Ben Messaoud": {
+      "title": "كيفاش تخلقت TakiAcademy:  أول وأكبر منصة تعليم عن بعد في تونس  | Fama Menou Podcast #14 With TakiEddine Ben Messaoud",
+      "podcastName": "Fama Menou Podcast",
+      "time": 96.617451,
+      "duration": 5862.392,
+      "finished": false
+    }
+  },
+  "favorites": {
+    "icon": "lucide-star",
+    "name": "Favorites",
+    "shouldEpisodeRemoveAfterPlay": false,
+    "shouldRepeat": false,
+    "episodes": [
+      {
+        "title": "كيفاش تخلقت TakiAcademy:  أول وأكبر منصة تعليم عن بعد في تونس  | Fama Menou Podcast #14 With TakiEddine Ben Messaoud",
+        "streamUrl": "https://d38zp968vffz8w.cloudfront.net/podcaster-v2-files/1690098962276-Fama_Menou_Podcast_ep14_taki_academy.mp3",
+        "url": "https://d38zp968vffz8w.cloudfront.net/podcaster-v2-files/1690098962276-Fama_Menou_Podcast_ep14_taki_academy.mp3",
+        "description": "باش نتعرفو في الحلقة على: \n\nشكون تقي الدين بن مسعود \n\nكيفاش بدات TakiAcademy وأصبحت أول وأكبر E-learning Platform في تونس  \n\nشنيا الكتب إلي بدلت حياة تقي \n\nكيفاش تعمل startup في تونس\n\n\nDon't forget to like and subscribe to our channel for more episodes It makes a huge difference! https://www.youtube.com/@FamaMenouPodcast\n\nConnect with Fama Menou Podcast \nhttps://www.instagram.com/famamenoupodcast/\nhttps://www.tiktok.com/@famamenoupodcast\nhttps://www.facebook.com/famamenoupodcast\n\nConnect with Khaled Alimi\nhttps://www.instagram.com/khaledalimi/\n",
+        "content": "",
+        "podcastName": "Fama Menou Podcast",
+        "artworkUrl": "https://reedz-podcaster.s3.eu-central-1.amazonaws.com/podcaster-v2-files/1690100516344-نسخة_من_Brown_Modern_Podcast_New_Episode_Announcement_Instagram_Post_(14).png",
+        "episodeDate": "2023-07-23T08:29:28.000Z",
+        "feedUrl": "https://d38zp968vffz8w.cloudfront.net/rss/famamenou.rss",
+        "itunesTitle": ""
+      }
+    ]
+  },
+  "queue": {
+    "icon": "list-ordered",
+    "name": "Queue",
+    "shouldEpisodeRemoveAfterPlay": true,
+    "shouldRepeat": false,
+    "episodes": []
+  },
+  "playlists": {},
+  "skipBackwardLength": 15,
+  "skipForwardLength": 15,
+  "currentEpisode": {
+    "title": "كيفاش تخلقت TakiAcademy:  أول وأكبر منصة تعليم عن بعد في تونس  | Fama Menou Podcast #14 With TakiEddine Ben Messaoud",
+    "streamUrl": "https://d38zp968vffz8w.cloudfront.net/podcaster-v2-files/1690098962276-Fama_Menou_Podcast_ep14_taki_academy.mp3",
+    "url": "https://d38zp968vffz8w.cloudfront.net/podcaster-v2-files/1690098962276-Fama_Menou_Podcast_ep14_taki_academy.mp3",
+    "description": "باش نتعرفو في الحلقة على: \n\nشكون تقي الدين بن مسعود \n\nكيفاش بدات TakiAcademy وأصبحت أول وأكبر E-learning Platform في تونس  \n\nشنيا الكتب إلي بدلت حياة تقي \n\nكيفاش تعمل startup في تونس\n\n\nDon't forget to like and subscribe to our channel for more episodes It makes a huge difference! https://www.youtube.com/@FamaMenouPodcast\n\nConnect with Fama Menou Podcast \nhttps://www.instagram.com/famamenoupodcast/\nhttps://www.tiktok.com/@famamenoupodcast\nhttps://www.facebook.com/famamenoupodcast\n\nConnect with Khaled Alimi\nhttps://www.instagram.com/khaledalimi/\n",
+    "content": "",
+    "podcastName": "Fama Menou Podcast",
+    "artworkUrl": "https://reedz-podcaster.s3.eu-central-1.amazonaws.com/podcaster-v2-files/1690100516344-نسخة_من_Brown_Modern_Podcast_New_Episode_Announcement_Instagram_Post_(14).png",
+    "episodeDate": "2023-07-23T08:29:28.000Z",
+    "feedUrl": "https://d38zp968vffz8w.cloudfront.net/rss/famamenou.rss",
+    "itunesTitle": ""
+  },
+  "timestamp": {
+    "template": "- {{linktime}} :"
+  },
+  "note": {
+    "path": "Podcast/{{title}}",
+    "template": "---\ntags: in/podcast state/process\naliades:\n- \"{{title}}\"\nimage: {{artwork}}\n---\n\n![{{title}}]({{artwork}})\n\n# {{title}}\n\ntags:: \nPodcast:: [[{{podcast}}]]\nTitle:: {{title}}\nGuest::\n\n---\n## Notes: \n---\n## Books Recommendation:\n"
+  },
+  "download": {
+    "path": ""
+  },
+  "downloadedEpisodes": {},
+  "localFiles": {
+    "icon": "folder",
+    "name": "Local Files",
+    "shouldEpisodeRemoveAfterPlay": false,
+    "shouldRepeat": false,
+    "episodes": []
+  }
+}

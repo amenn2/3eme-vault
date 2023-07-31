@@ -10,42 +10,44 @@
           {
             "id": "ebaeefd887063772",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           },
           {
-            "id": "d43d58866a4c2563",
+            "id": "2bed85475d0064ec",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Habits/chart.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e514e59e1633575",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/31-Jul.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcf1d85d92a2e6d3",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "database-plugin",
               "state": {
                 "file": "Habits/habit tracker.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "86ab6ca13fbbf300",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Media/podcasts database.md"
+              }
+            }
+          },
+          {
+            "id": "ca6a4f7df031dbf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media/كيفاش تخلقت TakiAcademy.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -62,7 +64,7 @@
       {
         "id": "056b3240d8353bc2",
         "type": "tabs",
-        "dimension": 53.59168241965973,
+        "dimension": 42.53308128544423,
         "children": [
           {
             "id": "e775b5396a74984d",
@@ -110,7 +112,7 @@
       {
         "id": "15b3b7d9cffdec94",
         "type": "tabs",
-        "dimension": 46.40831758034027,
+        "dimension": 57.46691871455577,
         "children": [
           {
             "id": "a20fe457c72bc0e3",
@@ -148,7 +150,7 @@
       {
         "id": "16bccb08e7042bc6",
         "type": "tabs",
-        "dimension": 32.30046948356807,
+        "dimension": 48.582230623818525,
         "children": [
           {
             "id": "fe8bee43ece79a93",
@@ -156,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Habits/habit tracker.md",
+                "file": "Media/كيفاش تخلقت TakiAcademy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Habits/habit tracker.md",
+                "file": "Media/كيفاش تخلقت TakiAcademy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Habits/habit tracker.md"
+                "file": "Media/كيفاش تخلقت TakiAcademy.md"
               }
             }
           },
@@ -225,12 +227,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "90b047de25c58d9e",
         "type": "tabs",
-        "dimension": 48.920187793427225,
+        "dimension": 32.514177693761816,
         "children": [
           {
             "id": "11d879d9c6bf5b32",
@@ -238,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Habits/habit tracker.md",
+                "file": "Media/كيفاش تخلقت TakiAcademy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -308,7 +310,7 @@
       {
         "id": "fe83e4da6f72c91e",
         "type": "tabs",
-        "dimension": 18.779342723004692,
+        "dimension": 18.90359168241966,
         "children": [
           {
             "id": "d2e845df7e0b5e7b",
@@ -322,7 +324,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 367.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -340,21 +342,28 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "workspaces:Manage workspace layouts": false,
-      "periodic-notes:Open today": false,
-      "dbfolder:Create a new database table": false
+      "dbfolder:Create a new database table": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "dcf1d85d92a2e6d3",
+  "active": "ca6a4f7df031dbf2",
   "lastOpenFiles": [
-    "journal/31-Jul.md",
+    "Media/podcasts database.md",
+    "Media/كيفاش تخلقت TakiAcademy.md",
     "Habits/habit tracker.md",
-    "templates/Daily note template.md",
     "Habits/chart.md",
+    "Podcast/Fama Menou Podcast.md",
+    "Podcast/Fama Menou Podcast-كيفاش تخلقت TakiAcademy أول وأكبر منصة تعليم عن بعد في تونس   Fama Menou Podcast 14 With TakiEddine Ben Messaoud.md",
+    "Home.md",
+    "journal/31-Jul.md",
+    "%.md",
+    "PodNotes_Export.opml",
+    "Media",
+    "templates/Daily note template.md",
     "journal/30-Jul.md",
     "journal/28-Jul.md",
     "journal/29-Jul.md",
     "journal/27-Jul.md",
-    "Home.md",
     "taki/2023-07-11.md",
     "Habits",
     "journal/2023-07-30.md",
@@ -372,17 +381,10 @@
     "taki/2023-07-24.md",
     "taki/2023-07-25.md",
     "Untitled 1",
-    "subjects/chimie/Chimie.md",
-    "subjects/prog/prog.md",
-    "README.md",
     "javascript/introduction",
-    "javascript/introduction/Introduction.md",
-    "templates/taki.md",
     "javascript",
     "Recording 20230730004134.webm",
-    "Excalidraw",
     "Untitled.canvas",
-    "dvr",
     "physique/intraction electrique/Untitled.canvas"
   ]
 }

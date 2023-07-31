@@ -7,6 +7,7 @@ fixedScale: 1
 line:
 	title: Weight
 	yAxisLabel: weight, count
+	yAxisUnit: kg
 	lineColor: lightgreen 
 	pointColor: " yellow "
 ```
