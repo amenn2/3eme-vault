@@ -96,7 +96,7 @@ columns:
     accessorKey: Calisthenics
     key: Calisthenics
     id: Calisthenics
-    label: Calisthenics
+    label: inger
     position: 5
     skipPersist: false
     isHidden: false

@@ -18,41 +18,29 @@
             }
           },
           {
-            "id": "2bed85475d0064ec",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Habits/habit tracker.md"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "86ab6ca13fbbf300",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Media/podcasts database.md"
-              }
-            }
-          },
-          {
-            "id": "ca6a4f7df031dbf2",
+            "id": "cf7e85b9ebd40157",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/كيفاش تخلقت TakiAcademy.md",
-                "mode": "source",
+                "file": "taki/2023-08-01.md",
+                "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "51aaf8dcd3859fe6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Attachments/Tense_Present Simple & Present Continuous.pdf"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +52,7 @@
       {
         "id": "056b3240d8353bc2",
         "type": "tabs",
-        "dimension": 42.53308128544423,
+        "dimension": 43.506493506493506,
         "children": [
           {
             "id": "e775b5396a74984d",
@@ -112,7 +100,7 @@
       {
         "id": "15b3b7d9cffdec94",
         "type": "tabs",
-        "dimension": 57.46691871455577,
+        "dimension": 56.493506493506494,
         "children": [
           {
             "id": "a20fe457c72bc0e3",
@@ -141,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 414.5
   },
   "right": {
     "id": "640fa7646591537f",
@@ -150,15 +138,31 @@
       {
         "id": "16bccb08e7042bc6",
         "type": "tabs",
-        "dimension": 48.582230623818525,
+        "dimension": 33.4593572778828,
         "children": [
+          {
+            "id": "4dea8b1c71d0c92e",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a70bafa99f37cf3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
           {
             "id": "fe8bee43ece79a93",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/كيفاش تخلقت TakiAcademy.md",
+                "file": "Attachments/Tense_Present Simple & Present Continuous.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media/كيفاش تخلقت TakiAcademy.md",
+                "file": "Attachments/Tense_Present Simple & Present Continuous.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/كيفاش تخلقت TakiAcademy.md"
+                "file": "Attachments/Tense_Present Simple & Present Continuous.pdf"
               }
             }
           },
@@ -209,30 +213,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "9a70bafa99f37cf3",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "4dea8b1c71d0c92e",
-            "type": "leaf",
-            "state": {
-              "type": "podcast_player_view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       },
       {
         "id": "90b047de25c58d9e",
         "type": "tabs",
-        "dimension": 32.514177693761816,
+        "dimension": 42.53308128544424,
         "children": [
           {
             "id": "11d879d9c6bf5b32",
@@ -240,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Media/كيفاش تخلقت TakiAcademy.md",
+                "file": "Attachments/Tense_Present Simple & Present Continuous.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,7 +270,7 @@
                       }
                     },
                     {
-                      "query": "",
+                      "query": "da",
                       "color": {
                         "a": 1,
                         "rgb": 5431473
@@ -310,7 +298,7 @@
       {
         "id": "fe83e4da6f72c91e",
         "type": "tabs",
-        "dimension": 18.90359168241966,
+        "dimension": 24.00756143667296,
         "children": [
           {
             "id": "d2e845df7e0b5e7b",
@@ -324,7 +312,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -346,20 +334,30 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ca6a4f7df031dbf2",
+  "active": "51aaf8dcd3859fe6",
   "lastOpenFiles": [
-    "Media/podcasts database.md",
-    "Media/كيفاش تخلقت TakiAcademy.md",
+    "taki/2023-08-01.md",
+    "Attachments/Tense_Present Simple & Present Continuous.pdf",
+    "Home.md",
+    "templates/subject template.md",
+    "templates/part note template.md",
+    "templates/Daily note template.md",
+    "templates/taki template.md",
+    "templates/lesson template.md",
+    "journal/01-Aug.md",
     "Habits/habit tracker.md",
+    "Podcast/podcasts database.md",
+    "journal/31-Jul.md",
+    "Podcast/كيفاش تخلقت TakiAcademy.md",
+    "Attachments/neom-9hWJs7iblh8-unsplash.jpg",
+    "Podcast/كيفاش تخلقت TakiAcademy أول وأكبر منصة تعليم عن بعد في تونس   Fama Menou Podcast 14 With TakiEddine Ben Messaoud.md",
     "Habits/chart.md",
+    "Podcast",
     "Podcast/Fama Menou Podcast.md",
     "Podcast/Fama Menou Podcast-كيفاش تخلقت TakiAcademy أول وأكبر منصة تعليم عن بعد في تونس   Fama Menou Podcast 14 With TakiEddine Ben Messaoud.md",
-    "Home.md",
-    "journal/31-Jul.md",
     "%.md",
     "PodNotes_Export.opml",
     "Media",
-    "templates/Daily note template.md",
     "journal/30-Jul.md",
     "journal/28-Jul.md",
     "journal/29-Jul.md",
@@ -369,21 +367,11 @@
     "journal/2023-07-30.md",
     "journal/2023-07-31.md",
     "taki/2023-07-30.md",
-    "javascript/introduction/Introduction and What Is JavaScript.md",
-    "journal/07-30.md",
-    "2023-07-30.md",
     "journal",
-    "taki/2023-07-30 1.md",
-    "yinote_Getting started with YiNote - YouTube.md",
-    "Attachments/neom-9hWJs7iblh8-unsplash.jpg",
     "Attachments/obsidian-icon.ico",
     "Attachments",
-    "taki/2023-07-24.md",
-    "taki/2023-07-25.md",
     "Untitled 1",
     "javascript/introduction",
-    "javascript",
-    "Recording 20230730004134.webm",
     "Untitled.canvas",
     "physique/intraction electrique/Untitled.canvas"
   ]

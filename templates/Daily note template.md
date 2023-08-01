@@ -1,5 +1,5 @@
 ---
-tag: habit
+tags: habit daily
 alias: {{date}}
 ---
 

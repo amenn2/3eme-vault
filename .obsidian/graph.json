@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -43,10 +43,24 @@
       }
     },
     {
-      "query": "",
+      "query": "podcast",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#daily",
+      "color": {
+        "a": 1,
+        "rgb": 14701235
+      }
+    },
+    {
+      "query": "database",
+      "color": {
+        "a": 1,
+        "rgb": 5399264
       }
     }
   ],
@@ -60,6 +74,6 @@
   "repelStrength": 16.9791666666667,
   "linkStrength": 0.442708333333333,
   "linkDistance": 167,
-  "scale": 0.713275462622447,
+  "scale": 0.7132754626224473,
   "close": true
 }

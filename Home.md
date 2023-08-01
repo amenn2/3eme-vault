@@ -13,8 +13,7 @@ SORT file.name ASC
 
 # Taki live
 ```dataview
-TABLE without id  subject , lesson , teacher ,
-file.link as Date
+TABLE  subject , lesson , teacher
 from "taki"
 limit 10
 sort file.date desc
