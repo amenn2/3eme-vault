@@ -4,7 +4,7 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "",
-    "template": "templates/taki.md",
+    "template": "templates/taki template.md",
     "folder": "taki",
     "enabled": true
   },

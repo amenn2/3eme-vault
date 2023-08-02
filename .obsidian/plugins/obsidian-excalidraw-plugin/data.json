@@ -8,10 +8,10 @@
   "autosaveInterval": 15000,
   "autosaveIntervalDesktop": 15000,
   "autosaveIntervalMobile": 10000,
-  "drawingFilenamePrefix": "Drawing ",
+  "drawingFilenamePrefix": "d",
   "drawingEmbedPrefixWithFilename": true,
   "drawingFilnameEmbedPostfix": " ",
-  "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
+  "drawingFilenameDateTime": "DD-MMM",
   "useExcalidrawExtension": true,
   "displaySVGInPreview": true,
   "allowImageCache": true,
@@ -25,7 +25,7 @@
   "matchThemeAlways": false,
   "matchThemeTrigger": false,
   "defaultMode": "normal",
-  "defaultPenMode": "never",
+  "defaultPenMode": "always",
   "allowPinchZoom": false,
   "allowWheelZoom": false,
   "zoomToFitOnOpen": true,
@@ -405,9 +405,9 @@
   ],
   "numberOfCustomPens": 0,
   "pdfScale": 4,
-  "pdfBorderBox": true,
+  "pdfBorderBox": false,
   "pdfGapSize": 20,
   "pdfLockAfterImport": true,
   "pdfNumColumns": 1,
-  "pdfImportScale": 0.3
+  "pdfImportScale": 1.1
 }

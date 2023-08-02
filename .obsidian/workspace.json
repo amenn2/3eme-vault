@@ -18,24 +18,34 @@
             }
           },
           {
-            "id": "cf7e85b9ebd40157",
+            "id": "adc90dc1a30fa5b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "taki/2023-08-01.md",
+                "file": "taki/2023-08-02.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "51aaf8dcd3859fe6",
+            "id": "a6d3e622ae9fafd9",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Attachments/Tense_Present Simple & Present Continuous.pdf"
+                "file": "Attachments/Révision.pdf"
+              }
+            }
+          },
+          {
+            "id": "f0bc0d91c44675c6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Attachments/Tense_Present Simple & Present Continuous_ Done.pdf"
               }
             }
           }
@@ -118,7 +128,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
@@ -129,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 349.5
   },
   "right": {
     "id": "640fa7646591537f",
@@ -138,7 +148,7 @@
       {
         "id": "16bccb08e7042bc6",
         "type": "tabs",
-        "dimension": 33.4593572778828,
+        "dimension": 33.459357277882795,
         "children": [
           {
             "id": "4dea8b1c71d0c92e",
@@ -162,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/Tense_Present Simple & Present Continuous.pdf",
+                "file": "Attachments/Révision.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/Tense_Present Simple & Present Continuous.pdf",
+                "file": "Attachments/Révision.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/Tense_Present Simple & Present Continuous.pdf"
+                "file": "Attachments/Révision.pdf"
               }
             }
           },
@@ -220,7 +230,7 @@
       {
         "id": "90b047de25c58d9e",
         "type": "tabs",
-        "dimension": 42.53308128544424,
+        "dimension": 43.00567107750473,
         "children": [
           {
             "id": "11d879d9c6bf5b32",
@@ -228,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Attachments/Tense_Present Simple & Present Continuous.pdf",
+                "file": "Attachments/Révision.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,7 +297,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792605,
+                  "scale": 0.3628873693012131,
                   "close": true
                 }
               }
@@ -298,7 +308,7 @@
       {
         "id": "fe83e4da6f72c91e",
         "type": "tabs",
-        "dimension": 24.00756143667296,
+        "dimension": 23.534971644612476,
         "children": [
           {
             "id": "d2e845df7e0b5e7b",
@@ -334,24 +344,33 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "51aaf8dcd3859fe6",
+  "active": "a6d3e622ae9fafd9",
   "lastOpenFiles": [
-    "taki/2023-08-01.md",
-    "Attachments/Tense_Present Simple & Present Continuous.pdf",
+    "taki/2023-08-02.md",
+    "Attachments/Tense_Present Simple & Present Continuous_ Done.pdf",
     "Home.md",
+    "subjects/english/english.md",
+    "taki/2023-08-01.md",
+    "Attachments/Révision.pdf",
+    "subjects/francais/Francais.md",
+    "Habits/chart.md",
+    "Habits/habit tracker.md",
+    "journal/02-Aug.md",
+    "journal/01-Aug.md",
+    "templates/taki template.md",
+    "templates/Daily note template.md",
+    "Attachments/Tense_Present Simple & Present Continuous.pdf",
+    "Excalidraw/d01-Aug.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-01 12.04.15.excalidraw.md",
+    "Excalidraw",
     "templates/subject template.md",
     "templates/part note template.md",
-    "templates/Daily note template.md",
-    "templates/taki template.md",
     "templates/lesson template.md",
-    "journal/01-Aug.md",
-    "Habits/habit tracker.md",
     "Podcast/podcasts database.md",
     "journal/31-Jul.md",
     "Podcast/كيفاش تخلقت TakiAcademy.md",
     "Attachments/neom-9hWJs7iblh8-unsplash.jpg",
     "Podcast/كيفاش تخلقت TakiAcademy أول وأكبر منصة تعليم عن بعد في تونس   Fama Menou Podcast 14 With TakiEddine Ben Messaoud.md",
-    "Habits/chart.md",
     "Podcast",
     "Podcast/Fama Menou Podcast.md",
     "Podcast/Fama Menou Podcast-كيفاش تخلقت TakiAcademy أول وأكبر منصة تعليم عن بعد في تونس   Fama Menou Podcast 14 With TakiEddine Ben Messaoud.md",
@@ -360,18 +379,9 @@
     "Media",
     "journal/30-Jul.md",
     "journal/28-Jul.md",
-    "journal/29-Jul.md",
-    "journal/27-Jul.md",
-    "taki/2023-07-11.md",
     "Habits",
-    "journal/2023-07-30.md",
-    "journal/2023-07-31.md",
-    "taki/2023-07-30.md",
     "journal",
     "Attachments/obsidian-icon.ico",
-    "Attachments",
-    "Untitled 1",
-    "javascript/introduction",
     "Untitled.canvas",
     "physique/intraction electrique/Untitled.canvas"
   ]

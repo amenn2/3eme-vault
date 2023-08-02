@@ -48,3 +48,7 @@ folder: journal
 summary:
     template: "Minimum: {{min()}}min\nMaximum: {{max()}}min\nMedian: {{median()}}min\nAverage: {{average()}}min"
 ```
+
+---
+---
+[[habit tracker]]
