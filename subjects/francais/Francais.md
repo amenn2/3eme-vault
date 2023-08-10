@@ -17,3 +17,7 @@ from #lesson_fr
 table lesson , teacher
 from #taki_fr
 ```
+```dataview
+table important
+from #important
+```

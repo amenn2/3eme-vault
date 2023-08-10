@@ -1,10 +1,9 @@
 ---
 tags: habit daily
-alias: 2023-08-02
+alias: 2023-08-08
 read: true
-weight: 69.3
+nosu: true
 Calisthenics: true
-screen_time_(min): 75
 overall_Day: ⭐⭐⭐
 ---
 

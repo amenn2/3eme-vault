@@ -18,34 +18,36 @@
             }
           },
           {
-            "id": "adc90dc1a30fa5b4",
+            "id": "76b796771968b54d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "taki/2023-08-02.md",
+                "file": "taki/2023-08-10.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "a6d3e622ae9fafd9",
+            "id": "6945880f31721215",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Révision.pdf"
+                "file": "taki/2023-08-08.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "f0bc0d91c44675c6",
+            "id": "bf4d0bea6b693719",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "database-plugin",
               "state": {
-                "file": "Attachments/Tense_Present Simple & Present Continuous_ Done.pdf"
+                "file": "Habits/habit tracker.md"
               }
             }
           }
@@ -128,7 +130,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -139,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 452.5
   },
   "right": {
     "id": "640fa7646591537f",
@@ -148,7 +150,7 @@
       {
         "id": "16bccb08e7042bc6",
         "type": "tabs",
-        "dimension": 33.459357277882795,
+        "dimension": 32.29461756373937,
         "children": [
           {
             "id": "4dea8b1c71d0c92e",
@@ -172,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/Révision.pdf",
+                "file": "taki/2023-08-08.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/Révision.pdf",
+                "file": "taki/2023-08-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,20 +209,18 @@
             }
           },
           {
-            "id": "463380e277dc0327",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Attachments/Révision.pdf"
-              }
-            }
-          },
-          {
             "id": "4a2e09e4b545c626",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b01e4c641e366d6e",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
               "state": {}
             }
           }
@@ -230,7 +230,7 @@
       {
         "id": "90b047de25c58d9e",
         "type": "tabs",
-        "dimension": 43.00567107750473,
+        "dimension": 29.178470254957507,
         "children": [
           {
             "id": "11d879d9c6bf5b32",
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Attachments/Révision.pdf",
+                "file": "taki/2023-08-08.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,7 +297,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3628873693012131,
+                  "scale": 0.5087618855792614,
                   "close": true
                 }
               }
@@ -306,23 +306,25 @@
         ]
       },
       {
-        "id": "fe83e4da6f72c91e",
+        "id": "4280cad287e0c419",
         "type": "tabs",
-        "dimension": 23.534971644612476,
+        "dimension": 38.52691218130311,
         "children": [
           {
-            "id": "d2e845df7e0b5e7b",
+            "id": "463380e277dc0327",
             "type": "leaf",
             "state": {
-              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "taki/2023-08-08.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 350.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -337,51 +339,59 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "smart-random-note:Open Random Note from Search": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
       "workspaces:Manage workspace layouts": false,
       "dbfolder:Create a new database table": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "a6d3e622ae9fafd9",
+  "active": "6945880f31721215",
   "lastOpenFiles": [
-    "taki/2023-08-02.md",
-    "Attachments/Tense_Present Simple & Present Continuous_ Done.pdf",
     "Home.md",
-    "subjects/english/english.md",
-    "taki/2023-08-01.md",
-    "Attachments/Révision.pdf",
+    "taki/2023-08-10.md",
+    "taki/2023-08-08.md",
+    "Attachments/Session 3_Present Perfect, Present Perfect Continuous, and Other Tenses..pdf",
+    "taki/2023-08-09.md",
+    "Attachments/français.pdf",
     "subjects/francais/Francais.md",
-    "Habits/chart.md",
+    "Attachments/cours-3 corrigé-2.pdf",
+    "Attachments/cours-3 corrigé-1.pdf",
     "Habits/habit tracker.md",
-    "journal/02-Aug.md",
-    "journal/01-Aug.md",
-    "templates/taki template.md",
-    "templates/Daily note template.md",
-    "Attachments/Tense_Present Simple & Present Continuous.pdf",
-    "Excalidraw/d01-Aug.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-01 12.04.15.excalidraw.md",
-    "Excalidraw",
-    "templates/subject template.md",
-    "templates/part note template.md",
-    "templates/lesson template.md",
-    "Podcast/podcasts database.md",
-    "journal/31-Jul.md",
+    "taki/2023-08-03.md",
+    "journal/09-Aug.md",
+    "taki/2023-08-04.md",
+    "taki/2023-08-01.md",
+    "taki/2023-08-02.md",
+    "subjects/francais/le passé simple.md",
+    "Habits/chart.md",
+    "journal/08-Aug.md",
+    "Attachments/Present Perfect, Present Perfect Continuous, and Other Tenses..pdf",
+    "subjects/francais/l'imparfait.md",
+    "Attachments/Pasted image 20230807174643.png",
+    "journal/07-Aug.md",
+    "subjects/francais/Le présent.md",
+    "subjects/francais/le subjonctif.md",
+    "journal/05-Aug.md",
+    "Attachments/Cours-2.pdf",
+    "Attachments/Cours-2-corrigé 2.pdf",
+    "Attachments/Cours-2-corrigé 1.pdf",
+    "subjects/francais/le futur.md",
+    "journal/04-Aug.md",
+    "Attachments/Séance 1 - corrigé 2.pdf",
+    "subjects/francais/le conditionnel.md",
     "Podcast/كيفاش تخلقت TakiAcademy.md",
+    "Attachments/Pasted image 20230803210949.png",
+    "Attachments/Pasted image 20230803210715.png",
+    "Attachments/Pasted image 20230803210308.png",
+    "Attachments/Tense_Simple Past & Past Continuous.pdf",
+    "Attachments/Pasted image 20230803141235.png",
+    "Attachments/Pasted image 20230803135450.png",
+    "Attachments/Pasted image 20230803135336.png",
+    "Attachments/Pasted image 20230803112106.png",
+    "journal/03-Aug.md",
+    "README.md",
     "Attachments/neom-9hWJs7iblh8-unsplash.jpg",
-    "Podcast/كيفاش تخلقت TakiAcademy أول وأكبر منصة تعليم عن بعد في تونس   Fama Menou Podcast 14 With TakiEddine Ben Messaoud.md",
-    "Podcast",
-    "Podcast/Fama Menou Podcast.md",
-    "Podcast/Fama Menou Podcast-كيفاش تخلقت TakiAcademy أول وأكبر منصة تعليم عن بعد في تونس   Fama Menou Podcast 14 With TakiEddine Ben Messaoud.md",
-    "%.md",
-    "PodNotes_Export.opml",
-    "Media",
-    "journal/30-Jul.md",
-    "journal/28-Jul.md",
-    "Habits",
-    "journal",
-    "Attachments/obsidian-icon.ico",
     "Untitled.canvas",
     "physique/intraction electrique/Untitled.canvas"
   ]
