@@ -42,7 +42,5 @@
   "Home.md": {
     "iconName": "🏠",
     "inheritanceIcon": "🏠"
-  },
-  "Habits/habit tracker.md": "🛤",
-  "Habits/chart.md": "LiLineChart"
+  }
 }

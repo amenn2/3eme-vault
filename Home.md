@@ -33,19 +33,3 @@ TABLE week
 from #javascript 
 ```
 ---
-
-
-
-
-
-
-
-
----
-
-[[habit tracker]]
-[[chart]]
-
-----
-----
-[[podcasts database]]
