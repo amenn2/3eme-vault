@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🥐",
       "LiLineChart",
       "🛤",
       "🏠",
-      "🏚",
-      "🍺"
+      "🏚"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,7 +33,7 @@
   "subjects/arab": "🐪",
   "subjects/chimie": "🧪",
   "subjects/english": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-  "subjects/francais": "🗼",
+  "subjects/francais": "🥐",
   "subjects/math": "LiCalculator",
   "subjects/philosophy": "🤔",
   "subjects/physique": "⚛",

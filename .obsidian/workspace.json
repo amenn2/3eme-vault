@@ -18,19 +18,67 @@
             }
           },
           {
+            "id": "b02d43a38a51be7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/01 - Create GitHub Repository And Clone It.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "731fadf9f54acecb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/Learn Git & GitHub.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d60228d0b2350d95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/Learn Git & GitHub.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca795872c3c7e1ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/04 - Pull Changes From Remote Repository.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ab8edfe012f216ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "subjects/francais/le passé simple.md",
-                "mode": "preview",
+                "file": "taki/2023-08-03.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -42,7 +90,7 @@
       {
         "id": "056b3240d8353bc2",
         "type": "tabs",
-        "dimension": 43.506493506493506,
+        "dimension": 46.975425330812854,
         "children": [
           {
             "id": "e775b5396a74984d",
@@ -90,7 +138,7 @@
       {
         "id": "15b3b7d9cffdec94",
         "type": "tabs",
-        "dimension": 56.493506493506494,
+        "dimension": 53.02457466918714,
         "children": [
           {
             "id": "a20fe457c72bc0e3",
@@ -119,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5
+    "width": 419.5
   },
   "right": {
     "id": "640fa7646591537f",
@@ -152,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "subjects/francais/le passé simple.md",
+                "file": "git/Learn Git & GitHub.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "subjects/francais/le passé simple.md",
+                "file": "git/Learn Git & GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +251,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "90b047de25c58d9e",
@@ -216,7 +264,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "subjects/francais/le passé simple.md",
+                "file": "git/Learn Git & GitHub.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "subjects/francais/le passé simple.md"
+                "file": "git/Learn Git & GitHub.md"
               }
             }
           }
@@ -324,53 +372,53 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ab8edfe012f216ef",
+  "active": "d60228d0b2350d95",
   "lastOpenFiles": [
-    "taki/2023-08-10.md",
-    "taki/2023-08-08.md",
-    "taki/2023-08-03.md",
-    "taki/2023-08-02.md",
     "Home.md",
-    "subjects/francais/le passé simple.md",
-    "subjects/francais/Francais.md",
-    "taki/2023-08-01.md",
+    "git/05 - Everything About Git Configurations.md",
+    "git",
+    "git/04 - Pull Changes From Remote Repository.md",
+    "git/Learn Git & GitHub.md",
+    "git/01 - Create GitHub Repository And Clone It.md",
+    "git/03 - Push Local Changes To Remote Repository.md",
+    "Attachments/Git-Architechture-Git-Tutorial-Edureka-2.png",
+    "git/02 - Add And Reset And Commit & Explain Progress.md",
+    "subjects/math/Math.md",
+    "subjects/math/Généralités sur les fonction.md",
+    "subjects/math/Probabilités.md",
+    "subjects/math/Trigonomètrie.md",
+    "subjects/math/Suite réelle.md",
+    "subjects/math/Produit scalaire dans le plan.md",
+    "subjects/math/Dérivabilité.md",
+    "subjects/math/Etude de fonctions.md",
+    "subjects/math/Systèmes d'équation linéaires.md",
+    "subjects/math/Arithmetique.md",
+    "subjects/math/Dénombrement.md",
+    "subjects/math/Limite , continuité et Branches infinies.md",
+    "taki/2023-08-03.md",
+    "Attachments/Tense_Simple Past & Past Continuous.pdf",
+    "Attachments/Session 2_Tense_Simple Past & Past Continuous.pdf",
+    "Attachments/Pasted image 20230813182656.png",
+    "subjects/Common Irregular Verbs.md",
     "subjects/english/English Tenses.md",
-    "taki/2023-08-09.md",
+    "taki/2023-08-01.md",
+    "Attachments/Pasted image 20230813180827.png",
+    "Attachments/Pasted image 20230813180707.png",
+    "subjects/english/STATIVE VERBS.md",
+    "subjects/english/english.md",
     "Attachments/Tense_Present Simple & Present Continuous_ Done.pdf",
     "Attachments/Pasted image 20230810180034.png",
-    "subjects/english/english.md",
-    "subjects/francais/Le présent.md",
-    "subjects/francais/le futur.md",
-    "subjects/francais/l'imparfait.md",
-    "subjects/passé composé.md",
     "Attachments/Session 3_Present Perfect, Present Perfect Continuous, and Other Tenses..pdf",
-    "subjects/francais/English Tenses.md",
-    "Habits/habit tracker.md",
-    "Habits/chart.md",
     "Attachments/français.pdf",
     "Attachments/cours-3 corrigé-2.pdf",
     "Attachments/cours-3 corrigé-1.pdf",
-    "journal/09-Aug.md",
-    "taki/2023-08-04.md",
-    "journal/08-Aug.md",
     "Attachments/Present Perfect, Present Perfect Continuous, and Other Tenses..pdf",
     "Attachments/Pasted image 20230807174643.png",
-    "journal/07-Aug.md",
-    "subjects/francais/le subjonctif.md",
-    "journal/05-Aug.md",
     "Attachments/Cours-2.pdf",
-    "Attachments/Cours-2-corrigé 2.pdf",
-    "Attachments/Cours-2-corrigé 1.pdf",
-    "journal/04-Aug.md",
-    "Attachments/Séance 1 - corrigé 2.pdf",
     "Attachments/Pasted image 20230803210949.png",
     "Attachments/Pasted image 20230803210715.png",
     "Attachments/Pasted image 20230803210308.png",
     "Attachments/Pasted image 20230803141235.png",
-    "Attachments/Pasted image 20230803135450.png",
-    "Attachments/Pasted image 20230803135336.png",
-    "Attachments/Pasted image 20230803112106.png",
-    "Attachments/neom-9hWJs7iblh8-unsplash.jpg",
     "Untitled.canvas",
     "physique/intraction electrique/Untitled.canvas"
   ]
