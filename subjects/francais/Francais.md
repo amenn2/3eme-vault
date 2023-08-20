@@ -16,6 +16,7 @@ from #lesson_fr
 ```dataview
 table lesson , teacher
 from #taki_fr
+SORT file.ctime DESC
 ```
 ```dataview
 table important

@@ -8,79 +8,72 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#lesson",
-      "color": {
-        "a": 1,
-        "rgb": 1564358
-      }
-    },
-    {
-      "query": "template",
-      "color": {
-        "a": 1,
-        "rgb": 8671968
-      }
-    },
-    {
-      "query": "tag:#home",
-      "color": {
-        "a": 1,
-        "rgb": 13574176
-      }
-    },
-    {
       "query": "tag:#subject",
       "color": {
         "a": 1,
-        "rgb": 11001938
+        "rgb": 5431394
       }
     },
     {
-      "query": "tag:taki",
+      "query": "path:javascript",
       "color": {
         "a": 1,
-        "rgb": 5396192
+        "rgb": 14725458
       }
     },
     {
-      "query": "podcast",
+      "query": "path:git",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 8198880
       }
     },
     {
-      "query": "tag:#daily",
+      "query": "file:home",
       "color": {
         "a": 1,
-        "rgb": 14701235
+        "rgb": 14703442
       }
     },
     {
-      "query": "javascript",
+      "query": "path:taki",
       "color": {
         "a": 1,
-        "rgb": 14731602
+        "rgb": 5431473
       }
     },
     {
-      "query": "git",
+      "query": "path:template",
       "color": {
         "a": 1,
-        "rgb": 917570
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "color",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "English Tenses",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0.2,
-  "nodeSizeMultiplier": 1.13359375,
-  "lineSizeMultiplier": 1.13359375,
-  "collapse-forces": false,
-  "centerStrength": 0.747395833333333,
-  "repelStrength": 11.3020833333333,
-  "linkStrength": 0.544270833333333,
-  "linkDistance": 30,
-  "scale": 0.5087618855792683,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.4505081176757879,
   "close": true
 }

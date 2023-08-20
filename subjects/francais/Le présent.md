@@ -1,4 +1,6 @@
-#flash
+---
+tag:color
+---
 
 ---
 exprime une action ou un état au moment ou l'on parle: 

@@ -2,7 +2,7 @@
 tags: javascript
 week: 1
 ---
-[[Home]]
+[[JavaScript]]
 
 - 1 – [[Introduction and What Is JavaScript ]]
 - 2 – [[How To Study The Course ]]
@@ -17,4 +17,3 @@ week: 1
 
 ---
 # Assignments For Lessons 1 To 9
-

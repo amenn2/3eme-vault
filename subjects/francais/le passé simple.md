@@ -1,3 +1,7 @@
+---
+tag:color
+---
+
 Le **passé simple** est employé en français dans les cas suivants :
 
 - action *unique*, *ponctuelle* et *terminée* dans le passé

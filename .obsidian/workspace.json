@@ -18,67 +18,31 @@
             }
           },
           {
-            "id": "b02d43a38a51be7a",
+            "id": "829ad99f35f4b32a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/01 - Create GitHub Repository And Clone It.md",
+                "file": "templates/subject template.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "731fadf9f54acecb",
+            "id": "c5e126b5651476b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/Learn Git & GitHub.md",
+                "file": "Assignment Operators.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d60228d0b2350d95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/Learn Git & GitHub.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca795872c3c7e1ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/04 - Pull Changes From Remote Repository.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab8edfe012f216ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "taki/2023-08-03.md",
-                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +54,7 @@
       {
         "id": "056b3240d8353bc2",
         "type": "tabs",
-        "dimension": 46.975425330812854,
+        "dimension": 48.77126654064272,
         "children": [
           {
             "id": "e775b5396a74984d",
@@ -138,7 +102,7 @@
       {
         "id": "15b3b7d9cffdec94",
         "type": "tabs",
-        "dimension": 53.02457466918714,
+        "dimension": 51.22873345935728,
         "children": [
           {
             "id": "a20fe457c72bc0e3",
@@ -167,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 475.5
   },
   "right": {
     "id": "640fa7646591537f",
@@ -200,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/Learn Git & GitHub.md",
+                "file": "Assignment Operators.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/Learn Git & GitHub.md",
+                "file": "Assignment Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,12 +215,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "90b047de25c58d9e",
         "type": "tabs",
-        "dimension": 29.178470254957507,
+        "dimension": 25.684608120868745,
         "children": [
           {
             "id": "11d879d9c6bf5b32",
@@ -264,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "git/Learn Git & GitHub.md",
+                "file": "Assignment Operators.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -323,7 +287,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792614,
+                  "scale": 0.36288736930121374,
                   "close": true
                 }
               }
@@ -334,7 +298,7 @@
       {
         "id": "4280cad287e0c419",
         "type": "tabs",
-        "dimension": 38.52691218130311,
+        "dimension": 42.020774315391876,
         "children": [
           {
             "id": "463380e277dc0327",
@@ -342,8 +306,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/Learn Git & GitHub.md"
+                "file": "Assignment Operators.md"
               }
+            }
+          },
+          {
+            "id": "27941c457462bd56",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javascript/JavaScript.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -372,53 +350,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d60228d0b2350d95",
+  "active": "c5e126b5651476b8",
   "lastOpenFiles": [
+    "javascript/Data Types.md",
+    "Assignment Operators.md",
+    "Type Coercion.md",
+    "Unary Plus And Negation Operators.md",
+    "Arithmetic Operators.md",
+    "Attachments/Cours-5-révision- corrigé-1.pdf",
+    "templates/subject template.md",
+    "taki/2023-08-18.md",
+    "taki/08-17.md",
+    "Attachments/Cours-5-révision- corrigé-2.pdf",
     "Home.md",
-    "git/05 - Everything About Git Configurations.md",
-    "git",
-    "git/04 - Pull Changes From Remote Repository.md",
-    "git/Learn Git & GitHub.md",
-    "git/01 - Create GitHub Repository And Clone It.md",
-    "git/03 - Push Local Changes To Remote Repository.md",
-    "Attachments/Git-Architechture-Git-Tutorial-Edureka-2.png",
-    "git/02 - Add And Reset And Commit & Explain Progress.md",
-    "subjects/math/Math.md",
-    "subjects/math/Généralités sur les fonction.md",
-    "subjects/math/Probabilités.md",
-    "subjects/math/Trigonomètrie.md",
-    "subjects/math/Suite réelle.md",
-    "subjects/math/Produit scalaire dans le plan.md",
-    "subjects/math/Dérivabilité.md",
-    "subjects/math/Etude de fonctions.md",
-    "subjects/math/Systèmes d'équation linéaires.md",
-    "subjects/math/Arithmetique.md",
-    "subjects/math/Dénombrement.md",
-    "subjects/math/Limite , continuité et Branches infinies.md",
+    "Attachments/Cours-6-révision-corrigé 1.pdf",
+    "subjects/francais/Francais.md",
+    "Attachments/Cours-6-révision-corrigé 2.pdf",
+    "taki/2023-08-02.md",
+    "subjects/english/English.md",
+    "subjects/english/Common Irregular Verbs.md",
+    "taki/2023-08-15.md",
+    "taki/2023-08-17.md",
+    "taki/2023-08-08.md",
     "taki/2023-08-03.md",
-    "Attachments/Tense_Simple Past & Past Continuous.pdf",
-    "Attachments/Session 2_Tense_Simple Past & Past Continuous.pdf",
-    "Attachments/Pasted image 20230813182656.png",
-    "subjects/Common Irregular Verbs.md",
-    "subjects/english/English Tenses.md",
     "taki/2023-08-01.md",
+    "taki/2023-08-09.md",
+    "taki/2023-08-04.md",
+    "javascript/JavaScript.md",
+    "javascript/String Syntax And Character Escape Sequences.md",
+    "javascript/Concatenation.md",
+    "javascript/Data Types And typeof Operator.md",
+    "javascript/Identifiers Name Conventions And Rules.md",
+    "javascript/Variables Introduction.md",
+    "Attachments/Session 6_The Future.pdf",
+    "Attachments/Pasted image 20230817172225.png",
+    "Attachments/Pasted image 20230817172026.png",
+    "Attachments/Pasted image 20230816181423.png",
+    "taklif/main 1.js",
+    "taklif/2 1.html",
+    "taklif/1 1.html",
+    "taklif/main.js",
+    "taklif/2.html",
+    "Attachments/Pasted image 20230815105808.png",
+    "Attachments/Git-Architechture-Git-Tutorial-Edureka-2.png",
+    "Attachments/Pasted image 20230813182656.png",
     "Attachments/Pasted image 20230813180827.png",
     "Attachments/Pasted image 20230813180707.png",
-    "subjects/english/STATIVE VERBS.md",
-    "subjects/english/english.md",
-    "Attachments/Tense_Present Simple & Present Continuous_ Done.pdf",
     "Attachments/Pasted image 20230810180034.png",
-    "Attachments/Session 3_Present Perfect, Present Perfect Continuous, and Other Tenses..pdf",
-    "Attachments/français.pdf",
-    "Attachments/cours-3 corrigé-2.pdf",
-    "Attachments/cours-3 corrigé-1.pdf",
-    "Attachments/Present Perfect, Present Perfect Continuous, and Other Tenses..pdf",
     "Attachments/Pasted image 20230807174643.png",
-    "Attachments/Cours-2.pdf",
-    "Attachments/Pasted image 20230803210949.png",
-    "Attachments/Pasted image 20230803210715.png",
-    "Attachments/Pasted image 20230803210308.png",
-    "Attachments/Pasted image 20230803141235.png",
     "Untitled.canvas",
     "physique/intraction electrique/Untitled.canvas"
   ]

@@ -2,7 +2,6 @@
 tags: ""
 teacher: ""
 ---
-[[Home]]
 
 ---
 # Lessons

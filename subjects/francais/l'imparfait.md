@@ -1,3 +1,6 @@
+---
+tag:color
+---
 L**'imparfait** de l'indicatif est un temps simple (en un seul mot) qui peut exprimer :  
 
 - une **description** (dans le passé)  

@@ -1,3 +1,7 @@
+
+---
+tag:color
+---
 Le **futur simple** exprime un fait ou une action qui se déroulera plus tard, elle n'a pas encore eu lieu au moment où nous nous exprimons.
 
 

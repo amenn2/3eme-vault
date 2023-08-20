@@ -7,7 +7,6 @@ teacher:
 
 date: {{date}}
 lesson:
-teacher:
 
 ---
 ## document:
