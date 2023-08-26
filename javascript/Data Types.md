@@ -1,6 +1,6 @@
 ---
 tags: javascript
-week: 2
+week: 2 + 3
 ---
 [[JavaScript]]
 

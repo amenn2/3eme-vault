@@ -12,7 +12,7 @@ table trimester
 from #lesson_fr
 ```
 ---
-## live taki
+## [[taki francais]]
 ```dataview
 table lesson , teacher
 from #taki_fr

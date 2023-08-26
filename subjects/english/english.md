@@ -7,16 +7,9 @@ teacher: ""
 ---
 # Lessons
 
--   [[English Tenses]]
+-  [[English Tenses]]
+- [[passive voice]]
+- [[Noun, Verb, Adjective, Adverb list]]
 ---
-## live taki
-```dataview
-table lesson , teacher
-from #taki_en
-```
+# [[taki english]]
 
-
-```dataview
-table important
-from #important_en
-```

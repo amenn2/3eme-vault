@@ -12,9 +12,6 @@ table trimester
 from #lesson 
 ```
 ---
-## live taki
-```dataview
-table lesson , teacher
-from #taki_math
-```
+## [[taki math]]
+
 ---

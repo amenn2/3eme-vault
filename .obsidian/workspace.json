@@ -18,31 +18,19 @@
             }
           },
           {
-            "id": "829ad99f35f4b32a",
+            "id": "0d99cb7d9ee4616f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/subject template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5e126b5651476b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assignment Operators.md",
+                "file": "javascript/Function Intro And Basic Usage.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#lesson",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 514.5110321044922
   },
   "right": {
     "id": "640fa7646591537f",
@@ -164,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assignment Operators.md",
+                "file": "javascript/Function Intro And Basic Usage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assignment Operators.md",
+                "file": "javascript/Function Intro And Basic Usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Assignment Operators.md",
+                "file": "javascript/Function Intro And Basic Usage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,7 +275,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.36288736930121374,
+                  "scale": 0.508761885579262,
                   "close": true
                 }
               }
@@ -306,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assignment Operators.md"
+                "file": "javascript/Function Intro And Basic Usage.md"
               }
             }
           },
@@ -324,7 +312,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -350,54 +339,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c5e126b5651476b8",
+  "active": "0d99cb7d9ee4616f",
   "lastOpenFiles": [
-    "javascript/Data Types.md",
-    "Assignment Operators.md",
-    "Type Coercion.md",
-    "Unary Plus And Negation Operators.md",
-    "Arithmetic Operators.md",
-    "Attachments/Cours-5-révision- corrigé-1.pdf",
-    "templates/subject template.md",
-    "taki/2023-08-18.md",
-    "taki/08-17.md",
-    "Attachments/Cours-5-révision- corrigé-2.pdf",
-    "Home.md",
-    "Attachments/Cours-6-révision-corrigé 1.pdf",
-    "subjects/francais/Francais.md",
-    "Attachments/Cours-6-révision-corrigé 2.pdf",
-    "taki/2023-08-02.md",
-    "subjects/english/English.md",
-    "subjects/english/Common Irregular Verbs.md",
-    "taki/2023-08-15.md",
-    "taki/2023-08-17.md",
-    "taki/2023-08-08.md",
-    "taki/2023-08-03.md",
-    "taki/2023-08-01.md",
-    "taki/2023-08-09.md",
-    "taki/2023-08-04.md",
+    "javascript/Functions.md",
+    "javascript/Function Default Parameters.md",
+    "javascript/Function Advanced Examples.md",
     "javascript/JavaScript.md",
-    "javascript/String Syntax And Character Escape Sequences.md",
-    "javascript/Concatenation.md",
-    "javascript/Data Types And typeof Operator.md",
-    "javascript/Identifiers Name Conventions And Rules.md",
-    "javascript/Variables Introduction.md",
-    "Attachments/Session 6_The Future.pdf",
+    "javascript/Function Ultimate Practice.md",
+    "javascript/Function Rest Parameters.md",
+    "javascript/Function Return Statement And Use Cases.md",
+    "javascript/Function Intro And Basic Usage.md",
+    "javascript/Loop.md",
+    "javascript/Loop Challenge.md",
+    "javascript/Nested Loops And Training’s.md",
+    "javascript/Looping On Sequences.md",
+    "javascript/Loop For And Concept Of Loop.md",
+    "javascript/Loop Control – Continue, Break, Label.md",
+    "javascript/Loop For Advanced Examples.md",
+    "javascript/Loop – Do, While.md",
+    "javascript/Loop – While.md",
+    "javascript/Practice – Add Products To Page.md",
+    "Attachments/Cours-7-révision.pdf",
+    "javascript/Array.md",
+    "subjects/francais/taki francais.md",
+    "taki/2023-08-24.md",
+    "taki/2023-08-25.md",
+    "subjects/francais/Francais.md",
+    "Home.md",
+    "taki/2023-08-02.md",
+    "taki/2023-08-09.md",
+    "Attachments/Word Formation & Tense.pdf",
+    "Attachments/serie1_les_structures_simples.pdf",
+    "Attachments/Passive Voice Review & Word Formation.pdf",
+    "Attachments/Session 7_Passive Voice Review & Word Formation.pdf",
+    "Attachments/Pasted image 20230822114337.png",
+    "Attachments/Série N°1-Suites réelles.pdf",
+    "Attachments/Cours-5-révision- corrigé-1.pdf",
+    "Attachments/Cours-5-révision- corrigé-2.pdf",
+    "Attachments/Cours-6-révision-corrigé 1.pdf",
+    "Attachments/Cours-6-révision-corrigé 2.pdf",
     "Attachments/Pasted image 20230817172225.png",
     "Attachments/Pasted image 20230817172026.png",
     "Attachments/Pasted image 20230816181423.png",
-    "taklif/main 1.js",
-    "taklif/2 1.html",
-    "taklif/1 1.html",
-    "taklif/main.js",
-    "taklif/2.html",
     "Attachments/Pasted image 20230815105808.png",
     "Attachments/Git-Architechture-Git-Tutorial-Edureka-2.png",
     "Attachments/Pasted image 20230813182656.png",
     "Attachments/Pasted image 20230813180827.png",
     "Attachments/Pasted image 20230813180707.png",
     "Attachments/Pasted image 20230810180034.png",
-    "Attachments/Pasted image 20230807174643.png",
     "Untitled.canvas",
     "physique/intraction electrique/Untitled.canvas"
   ]

@@ -11,3 +11,4 @@ table trimester
 from #lesson_prog  
 ```
 ---
+# [[taki prog]]

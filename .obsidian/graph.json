@@ -3,9 +3,9 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#subject",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "query": "English Tenses",
+      "query": "English",
       "color": {
         "a": 1,
         "rgb": 11621088
@@ -66,14 +66,14 @@
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 0.890872591006424,
+  "lineSizeMultiplier": 1.75825303354747,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.498304782298358,
+  "repelStrength": 12.2501784439686,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.4505081176757879,
+  "linkDistance": 227,
+  "scale": 0.22920135941749667,
   "close": true
 }
