@@ -1,12 +1,11 @@
 ---
-tag: 
+tags: []
 subject: 
 lesson: 
 teacher: 
+"date:": "{{date}}"
+parent:
 ---
-
-date: {{date}}
-lesson:
 
 ---
 ## document:

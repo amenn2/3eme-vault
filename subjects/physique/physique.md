@@ -12,8 +12,4 @@ from #lesson_phy
 ```
 
 ---
-## live taki
-```dataview
-table lesson , teacher
-from #taki_phy
-```
+[[taki phy]]

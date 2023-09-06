@@ -23,8 +23,5 @@ from #to_process
 ```
 ---
 
-# Courses
-## [[JavaScript]]
-## [[Learn Git & GitHub]]
- 
- 
+
+ [[Learn Git & GitHub]]
