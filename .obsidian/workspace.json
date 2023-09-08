@@ -23,8 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "taki/2023-08-01.md",
-                "mode": "source",
+                "file": "taki/2023-09-08.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -119,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 421.5110321044922
   },
   "right": {
     "id": "640fa7646591537f",
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "taki/2023-08-01.md",
+                "file": "taki/2023-09-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "taki/2023-08-01.md",
+                "file": "taki/2023-09-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "taki/2023-08-01.md",
+                "file": "taki/2023-09-08.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "taki/2023-08-01.md"
+                "file": "taki/2023-09-08.md"
               }
             }
           },
@@ -311,7 +311,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "taki/2023-09-08.md"
+              }
             }
           }
         ],
@@ -319,7 +321,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 518.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -343,9 +345,14 @@
   },
   "active": "1ee6cdf4b82df645",
   "lastOpenFiles": [
+    "taki/2023-09-02.md",
+    "Untitled.md",
+    "templates/part note template.md",
+    "taki/2023-09-08.md",
+    "Home.md",
+    "taki/2023-08-01.md",
     "subjects/english/English Tenses.md",
     "subjects/english/english.md",
-    "Home.md",
     "subjects/english/Noun, Verb, Adjective, Adverb list.md",
     "subjects/physique/physique.md",
     "git/Learn Git & GitHub.md",
@@ -361,10 +368,8 @@
     "git/Everything About Aliases.md",
     "git/Create GitHub Repository And Clone It.md",
     "taki/2023-09-04.md",
-    "taki/2023-09-02.md",
     "Attachments/Suites réelles séance 3.pdf",
     "Attachments/Série N°1-Suites réelles.pdf",
-    "Untitled.md",
     "Foundations Course.md",
     "taki/2023-08-31.md",
     "Attachments/Cours loi de Coulomb 1.pdf",
@@ -376,9 +381,6 @@
     "Attachments/Pasted image 20230904200532.png",
     "javascript/DOM_2.md",
     "Attachments/Pasted image 20230904195014.png",
-    "templates/taki template.md",
-    "taki/2023-09-03.md",
-    "subjects/sti/taki sti.md",
     "Attachments/64f37dce715aa_correction code CSS.pdf",
     "Attachments/64f104554955e_Cours loi de Coulomb Correction.pdf",
     "Attachments/64f10470c5e19_Correction application loi de Coulomb.pdf",
