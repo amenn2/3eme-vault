@@ -1,8 +1,4 @@
-
 ```dataview
 table lesson , teacher
-from #taki_en
-
+from #taki_de
 ```
-
-[[english]]

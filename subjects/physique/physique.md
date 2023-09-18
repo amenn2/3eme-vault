@@ -6,10 +6,7 @@ teacher: "rajb"
 
 ---
 # Lessons
-```dataview
-table trimester
-from #lesson_phy
-```
+
 
 ---
 [[taki phy]]

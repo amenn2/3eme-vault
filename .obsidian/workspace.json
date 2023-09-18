@@ -4,33 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "369cb9650b6551bc",
+        "id": "3bb059aef3dd2c26",
         "type": "tabs",
         "children": [
           {
-            "id": "ebaeefd887063772",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "1ee6cdf4b82df645",
+            "id": "a004114a137c370a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "taki/2023-09-08.md",
+                "file": "taki/2023-09-18.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b10e590d2ce145a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Attachments/Série N°1-Généralités sur les fonctions.pdf"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#git",
+                "query": "tag:#subject",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5110321044922
+    "width": 479.5110321044922
   },
   "right": {
     "id": "640fa7646591537f",
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "taki/2023-09-08.md",
+                "file": "taki/2023-09-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,14 +187,24 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "taki/2023-09-08.md",
+                "file": "taki/2023-09-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "962f5873d02a5ff8",
+            "id": "68ebf45caa7f3546",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "fd7accec0ca8d2fc",
             "type": "leaf",
             "state": {
               "type": "podcast_player_view",
@@ -207,7 +216,7 @@
       {
         "id": "90b047de25c58d9e",
         "type": "tabs",
-        "dimension": 27.131782945736433,
+        "dimension": 34.45305770887167,
         "children": [
           {
             "id": "11d879d9c6bf5b32",
@@ -215,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "taki/2023-09-08.md",
+                "file": "taki/2023-09-18.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,7 +303,7 @@
       {
         "id": "4280cad287e0c419",
         "type": "tabs",
-        "dimension": 43.58311800172265,
+        "dimension": 36.261843238587424,
         "children": [
           {
             "id": "463380e277dc0327",
@@ -302,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "taki/2023-09-08.md"
+                "file": "taki/2023-09-18.md"
               }
             }
           },
@@ -312,16 +321,15 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "taki/2023-09-08.md"
+                "file": "taki/2023-09-18.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 518.5
+    "width": 398.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -343,55 +351,55 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1ee6cdf4b82df645",
+  "active": "a004114a137c370a",
   "lastOpenFiles": [
-    "taki/2023-09-02.md",
-    "Untitled.md",
-    "templates/part note template.md",
-    "taki/2023-09-08.md",
-    "Home.md",
-    "taki/2023-08-01.md",
-    "subjects/english/English Tenses.md",
+    "Attachments/Pasted image 20230918205518.png",
+    "Attachments/Screenshot 2023-09-18 194320 - Copy.png",
+    "Attachments/Screenshot 2023-09-18 194527.png",
+    "Attachments/Screenshot 2023-09-18 194707 - Copy.png",
+    "Attachments/Screenshot 2023-09-18 200214.png",
+    "Attachments/Screenshot 2023-09-18 202821 - Copy.png",
+    "Attachments/Série N°1-Généralités sur les fonctions.pdf",
+    "taki/2023-09-18.md",
+    "subjects/english/passive voice.md",
     "subjects/english/english.md",
-    "subjects/english/Noun, Verb, Adjective, Adverb list.md",
-    "subjects/physique/physique.md",
-    "git/Learn Git & GitHub.md",
-    "taki/2023-08-29.md",
+    "Home.md",
     "subjects/math/Math.md",
-    "taki/2023-09-06.md",
+    "Attachments/Pasted image 20230918201829.png",
     "subjects/Allemand/Allemand.md",
-    "Attachments/serie3_les_structures_itératives.pdf",
-    "Attachments/Pasted image 20230906202438.png",
-    "subjects/prog/taki prog.md",
-    "Attachments/64ece293b59f6_Suites réelles séance 2.pdf",
-    "git/Pull Changes From Remote Repository.md",
-    "git/Everything About Aliases.md",
-    "git/Create GitHub Repository And Clone It.md",
-    "taki/2023-09-04.md",
-    "Attachments/Suites réelles séance 3.pdf",
-    "Attachments/Série N°1-Suites réelles.pdf",
-    "Foundations Course.md",
-    "taki/2023-08-31.md",
-    "Attachments/Cours loi de Coulomb 1.pdf",
-    "subjects/physique/taki phy.md",
+    "subjects/Allemand/taki de.md",
+    "Attachments/Pasted image 20230918200218.png",
     "subjects/math/taki math.md",
-    "Attachments/Pasted image 20230904204049.png",
-    "taki/2023-08-21.md",
-    "Attachments/Pasted image 20230904203333.png",
-    "Attachments/Pasted image 20230904200532.png",
-    "javascript/DOM_2.md",
-    "Attachments/Pasted image 20230904195014.png",
-    "Attachments/64f37dce715aa_correction code CSS.pdf",
-    "Attachments/64f104554955e_Cours loi de Coulomb Correction.pdf",
-    "Attachments/64f10470c5e19_Correction application loi de Coulomb.pdf",
-    "Attachments/Pasted image 20230829194126.png",
-    "Attachments/serie2_les_structures_conditionnelles.pdf",
-    "Excalidraw",
-    "Attachments/Pasted image 20230829180811.png",
-    "Attachments/Pasted image 20230817172225.png",
-    "Attachments/Pasted image 20230822114337.png",
-    "Attachments/Pasted image 20230817172026.png",
+    "subjects/arab/taki arab.md",
+    "templates/lesson template.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "subjects/physique/physique.md",
+    "subjects/arab/arab.md",
     "Untitled.canvas",
+    "templates/subject template.md",
+    "templates/taki template.md",
+    "Attachments/Pasted image 20230918194712.png",
+    "Attachments/Pasted image 20230918194530.png",
+    "Attachments/Pasted image 20230918194518.png",
+    "Attachments/correction application.pdf",
+    "Excalidraw/d15-Sep.excalidraw.md",
+    "taki/2023-09-14.md",
+    "taki/2023-09-07.md",
+    "Attachments/64f214657a9bb_Cours loi de Coulomb.pdf",
+    "subjects/physique/taki phy.md",
+    "taki/2023-09-11.md",
+    "Attachments/64fb2ae0f199a_Corrigé-Notion de champ électrique.pdf",
+    "taki/2023-08-31.md",
+    "Attachments/64f10470c5e19_Correction application loi de Coulomb.pdf",
+    "Attachments/64f104554955e_Cours loi de Coulomb Correction.pdf",
+    "Attachments/Cours loi de Coulomb 1.pdf",
+    "Attachments/Notion de champ électrique (suite).pdf",
+    "taki/2023-09-15.md",
+    "Attachments/Session 1_Review.pdf",
+    "Attachments/Notion de champ électrique Application.pdf",
+    "subjects/english/taki english.md",
+    "subjects/english/English Tenses.md",
     "physique/intraction electrique/Untitled.canvas"
   ]
 }

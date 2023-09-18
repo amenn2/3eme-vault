@@ -1,16 +1,13 @@
 ---
-teacher: chtiwi
-tags: "subject"
+teacher: jamel
+tags:
+  - subject
 ---
  [[Home]]
 
 ---
 
 ## Lessons
-```dataview
-table trimester
-from #lesson 
-```
 ---
 ## [[taki math]]
 

@@ -1,10 +1,10 @@
 ---
-trimester: ""
-tags: 
+trimester: 
+tags:
 ---
 
 ---
-# Main
+# Notes
 
 ---
 # Exercies

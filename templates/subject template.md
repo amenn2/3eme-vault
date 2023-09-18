@@ -1,6 +1,5 @@
 ---
-tags: ""
-teacher: ""
+tags:
 ---
 
 ---
