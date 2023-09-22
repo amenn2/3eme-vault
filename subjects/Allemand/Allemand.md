@@ -1,6 +1,7 @@
 ---
-tags: "subject"
-teacher: ""
+tags:
+  - subject
+teacher: iness
 ---
 [[Home]]
 
@@ -11,8 +12,4 @@ table trimester
 from #lesson_de  
 ```
 ---
-## live taki
-```dataview
-table lesson , teacher
-from #taki_de
-```
+## [[taki de]]

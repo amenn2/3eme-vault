@@ -1,15 +1,14 @@
 ---
-tags: "subject"
-teacher: "rajb"
+tags:
+  - subject
+teacher: sihem
 ---
 [[Home]]
 
 ---
 # Lessons
-```dataview
-table trimester
-from #lesson_phy
-```
+1. [[Les électrolytes]]
+
 
 ---
 [[taki phy]]
