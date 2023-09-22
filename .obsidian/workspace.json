@@ -8,24 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a004114a137c370a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "taki/2023-09-18.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b10e590d2ce145a",
+            "id": "d412c7c79b194a63",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Attachments/Série N°1-Généralités sur les fonctions.pdf"
+                "file": "Attachments/serie4_les_structures_itératives.pdf"
+              }
+            }
+          },
+          {
+            "id": "8177e0168908a4d7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Attachments/Das Alphapet .pdf"
+              }
+            }
+          },
+          {
+            "id": "3ee68e290b5ac700",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "subjects/Allemand/taki de.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -59,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#subject",
+                "query": "tag:#taki_fr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 479.5110321044922
+    "width": 367.5110321044922
   },
   "right": {
     "id": "640fa7646591537f",
@@ -170,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "taki/2023-09-18.md",
+                "file": "Attachments/serie4_les_structures_itératives.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "taki/2023-09-18.md",
+                "file": "Attachments/serie4_les_structures_itératives.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,14 +211,6 @@
               "state": {
                 "sortOrder": "frequency"
               }
-            }
-          },
-          {
-            "id": "fd7accec0ca8d2fc",
-            "type": "leaf",
-            "state": {
-              "type": "podcast_player_view",
-              "state": {}
             }
           }
         ]
@@ -224,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "taki/2023-09-18.md",
+                "file": "Attachments/serie4_les_structures_itératives.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,8 +299,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4280cad287e0c419",
@@ -311,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "taki/2023-09-18.md"
+                "file": "Attachments/serie4_les_structures_itératives.pdf"
               }
             }
           },
@@ -321,11 +322,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "taki/2023-09-18.md"
+                "file": "Attachments/serie4_les_structures_itératives.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -351,55 +353,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a004114a137c370a",
+  "active": "d412c7c79b194a63",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20230918205518.png",
-    "Attachments/Screenshot 2023-09-18 194320 - Copy.png",
-    "Attachments/Screenshot 2023-09-18 194527.png",
-    "Attachments/Screenshot 2023-09-18 194707 - Copy.png",
-    "Attachments/Screenshot 2023-09-18 200214.png",
-    "Attachments/Screenshot 2023-09-18 202821 - Copy.png",
-    "Attachments/Série N°1-Généralités sur les fonctions.pdf",
-    "taki/2023-09-18.md",
-    "subjects/english/passive voice.md",
-    "subjects/english/english.md",
+    "taki/2023-09-13.md",
+    "subjects/prog/taki prog.md",
+    "subjects/prog/prog.md",
     "Home.md",
-    "subjects/math/Math.md",
-    "Attachments/Pasted image 20230918201829.png",
-    "subjects/Allemand/Allemand.md",
+    "taki/09-22.md",
+    "Attachments/Pasted image 20230922204633.png",
+    "Attachments/Pasted image 20230922203629.png",
+    "Attachments/Pasted image 20230922202941.png",
+    "subjects/francais/taki francais.md",
+    "Attachments/Pasted image 20230922202425.png",
+    "taki/2023-09-08.md",
+    "taki/2023-08-02.md",
+    "taki/2023-09-22.md",
+    "Attachments/Corrigé_Das Alphapet.pdf",
+    "Attachments/Das Alphapet .pdf",
     "subjects/Allemand/taki de.md",
-    "Attachments/Pasted image 20230918200218.png",
-    "subjects/math/taki math.md",
-    "subjects/arab/taki arab.md",
-    "templates/lesson template.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "subjects/physique/physique.md",
-    "subjects/arab/arab.md",
-    "Untitled.canvas",
-    "templates/subject template.md",
-    "templates/taki template.md",
-    "Attachments/Pasted image 20230918194712.png",
-    "Attachments/Pasted image 20230918194530.png",
-    "Attachments/Pasted image 20230918194518.png",
-    "Attachments/correction application.pdf",
-    "Excalidraw/d15-Sep.excalidraw.md",
-    "taki/2023-09-14.md",
+    "subjects/Allemand/Allemand.md",
+    "taki/2023-08-29.md",
+    "Attachments/serie2_les_structures_conditionnelles.pdf",
+    "Attachments/Pasted image 20230922154157.png",
+    "Attachments/Série 1 loi de Coulomb et champ électrique.pdf",
+    "Attachments/Série 5 3SI correction.pdf",
     "taki/2023-09-07.md",
-    "Attachments/64f214657a9bb_Cours loi de Coulomb.pdf",
+    "Attachments/suite du cours + correction de l'application.pdf",
+    "taki/2023-09-21.md",
     "subjects/physique/taki phy.md",
-    "taki/2023-09-11.md",
-    "Attachments/64fb2ae0f199a_Corrigé-Notion de champ électrique.pdf",
+    "subjects/physique/physique.md",
+    "Attachments/Notion de champ electrique suite.pdf",
+    "taki/2023-09-20.md",
+    "Attachments/Pasted image 20230921201330.png",
+    "Attachments/64fb2ae0ee622_Corrigé_Notion de champ électrique.pdf",
+    "Attachments/Pasted image 20230921200720.png",
+    "Attachments/Pasted image 20230921194552.png",
+    "Attachments/Pasted image 20230921194150.png",
+    "taki/2023-09-14.md",
+    "Attachments/correction application.pdf",
+    "Attachments/Pasted image 20230921193934.png",
+    "Attachments/Série 5 3SI.pdf",
+    "taki/08-22.md",
+    "subjects/physique/Les électrolytes.md",
     "taki/2023-08-31.md",
-    "Attachments/64f10470c5e19_Correction application loi de Coulomb.pdf",
-    "Attachments/64f104554955e_Cours loi de Coulomb Correction.pdf",
-    "Attachments/Cours loi de Coulomb 1.pdf",
-    "Attachments/Notion de champ électrique (suite).pdf",
-    "taki/2023-09-15.md",
-    "Attachments/Session 1_Review.pdf",
-    "Attachments/Notion de champ électrique Application.pdf",
-    "subjects/english/taki english.md",
-    "subjects/english/English Tenses.md",
+    "subjects/math/Les suites reéles.md",
+    "Excalidraw/d29-Aug.excalidraw.md",
+    "Excalidraw/d15-Sep.excalidraw.md",
+    "Excalidraw/d19-Sep.excalidraw.md",
+    "Untitled.canvas",
     "physique/intraction electrique/Untitled.canvas"
   ]
 }

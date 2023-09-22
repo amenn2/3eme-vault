@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -69,6 +69,20 @@
         "a": 1,
         "rgb": 14701233
       }
+    },
+    {
+      "query": "lesson",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": false,
@@ -81,6 +95,6 @@
   "repelStrength": 12.2501784439686,
   "linkStrength": 1,
   "linkDistance": 227,
-  "scale": 0.05932617187500314,
-  "close": true
+  "scale": 0.22920135941750608,
+  "close": false
 }

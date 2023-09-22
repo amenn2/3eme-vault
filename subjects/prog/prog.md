@@ -1,6 +1,7 @@
 ---
-tags: "subject"
-teacher: ""
+tags:
+  - subject
+teacher: nawel
 ---
 [[Home]]
 
